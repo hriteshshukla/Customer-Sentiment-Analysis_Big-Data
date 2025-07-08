@@ -1,5 +1,7 @@
 **Customer Sentiment Analysis of Amazon Health & Personal Care Reviews**
+
 **Toolset: Python, VADER, Pandas, Matplotlib, LDA Topic Modelling, Power BI**
+
 **Dataset: Amazon Reviews (346,000+ entries)**
 
 Conducted large-scale sentiment analysis and topic modelling on 346K+ Amazon Health & Personal Care reviews to extract actionable insights on consumer satisfaction, product performance, and review behaviour.
